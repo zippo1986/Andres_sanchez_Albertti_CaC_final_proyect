@@ -8,7 +8,7 @@ public class ConexionDB {
 
     private static final String url = "jdbc:mysql://localhost:3306/proyectojava_24113";
     private static final String user = "root";
-    private static final String password = "Oktubre.86";
+    private static final String password = "";
 
     public static Connection obtenerConexion() throws SQLException {
         try {
